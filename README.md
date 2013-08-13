@@ -11,7 +11,8 @@ This is HTML5 application, built with [Brunch](http://brunch.io).
 * Or build the minified project with `brunch build --optimize`.
 
 Open the `public/` dir to see the result.
-Write your code in `app` dir,
-put third-party styles & scripts in `vendor` dir.
 
-See [Chaplin site](http://chaplinjs.org) for docs and more info.
+* Write your code in `app` dir.
+* Put static files that should be copied (index.html etc) to `app/assets`.
+* Manage dependencies with [Bower](http://bower.io) or simply put
+  third-party styles & scripts in `vendor` dir.
