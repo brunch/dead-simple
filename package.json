@@ -8,8 +8,7 @@
     "url": ""
   },
   "scripts": {
-    "start": "brunch watch --server",
-    "test": "brunch test"
+    "start": "brunch watch --server"
   },
   "dependencies": {
     "javascript-brunch": ">= 1.0 < 1.9",
