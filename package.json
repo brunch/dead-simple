@@ -11,7 +11,7 @@
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
-  "devDpendencies": {
+  "devDependencies": {
     "javascript-brunch": "^2.0.0",
     "css-brunch": "^2.0.0",
     "uglify-js-brunch": "^2.0.0",
