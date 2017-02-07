@@ -3,21 +3,16 @@
   "description": "Description",
   "author": "Your Name",
   "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "repository": "",
   "scripts": {
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
   "dependencies": {},
   "devDependencies": {
-    "brunch": "^2.0.0",
-    "javascript-brunch": "^2.0.0",
-    "css-brunch": "^2.0.0",
-    "uglify-js-brunch": "^2.0.0",
-    "clean-css-brunch": "^2.0.0",
-    "auto-reload-brunch": "^2.0.0"
+    "brunch": "^2",
+    "uglify-js-brunch": "^2",
+    "clean-css-brunch": "^2",
+    "auto-reload-brunch": "^2"
   }
 }
