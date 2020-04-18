@@ -12,8 +12,8 @@
   "dependencies": {},
   "devDependencies": {
     "auto-reload-brunch": "^2",
-    "brunch": "^2",
-    "clean-css-brunch": "^2",
-    "uglify-js-brunch": "^2"
+    "brunch": "^3",
+    "clean-css-brunch": "^3",
+    "terser-brunch": "^4"
   }
 }
